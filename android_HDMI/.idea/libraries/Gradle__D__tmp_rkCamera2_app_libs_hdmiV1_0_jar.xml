@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: D./tmp/rkCamera2/app/libs/hdmiV1_0.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/hdmiV1_0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
